@@ -27,4 +27,13 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0665-non-decreasing-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0665-non-decreasing-array/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 <!---LeetCode Topics End-->
