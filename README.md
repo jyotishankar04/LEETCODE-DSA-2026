@@ -8,11 +8,13 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [0050-powx-n](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0326-power-of-three/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0326-power-of-three/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
