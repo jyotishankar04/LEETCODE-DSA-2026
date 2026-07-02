@@ -10,6 +10,7 @@ Auto-synced DSA solutions using Syncode
 | [0231-power-of-two](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@ Auto-synced DSA solutions using Syncode
 | [0231-power-of-two](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +29,7 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0022-generate-parentheses/) | Medium |
+| [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +94,8 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
