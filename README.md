@@ -11,6 +11,7 @@ Auto-synced DSA solutions using Syncode
 | [0326-power-of-three](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +116,8 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
