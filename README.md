@@ -29,6 +29,7 @@ Auto-synced DSA solutions using Syncode
 | [0022-generate-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0022-generate-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +161,8 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
