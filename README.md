@@ -43,6 +43,7 @@ Auto-synced DSA solutions using Syncode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0283-move-zeroes/) | Easy |
 | [0665-non-decreasing-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0665-non-decreasing-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -78,6 +79,7 @@ Auto-synced DSA solutions using Syncode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -142,6 +144,7 @@ Auto-synced DSA solutions using Syncode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0283-move-zeroes/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
