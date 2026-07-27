@@ -46,6 +46,7 @@ Auto-synced DSA solutions using Syncode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0283-move-zeroes/) | Easy |
 | [0665-non-decreasing-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0665-non-decreasing-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -63,6 +64,7 @@ Auto-synced DSA solutions using Syncode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -98,6 +100,7 @@ Auto-synced DSA solutions using Syncode
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3620-network-recovery-pathways/) | Hard |
