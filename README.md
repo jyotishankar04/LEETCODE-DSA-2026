@@ -171,4 +171,8 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
