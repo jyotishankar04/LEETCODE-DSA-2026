@@ -45,6 +45,7 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0496-next-greater-element-i/) | Easy |
 | [0665-non-decreasing-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0665-non-decreasing-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -73,6 +74,7 @@ Auto-synced DSA solutions using Syncode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0496-next-greater-element-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -178,4 +180,12 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0175-combine-two-tables/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
