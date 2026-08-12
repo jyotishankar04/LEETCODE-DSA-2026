@@ -53,6 +53,7 @@ Auto-synced DSA solutions using Syncode
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -76,6 +77,7 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0496-next-greater-element-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Sliding Window
@@ -83,6 +85,7 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
