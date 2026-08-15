@@ -61,6 +61,7 @@ Auto-synced DSA solutions using Syncode
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -127,6 +128,7 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0342-power-of-four/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
