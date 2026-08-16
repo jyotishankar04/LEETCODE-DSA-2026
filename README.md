@@ -12,6 +12,7 @@ Auto-synced DSA solutions using Syncode
 | [0342-power-of-four](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -54,6 +55,7 @@ Auto-synced DSA solutions using Syncode
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -68,6 +70,7 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +179,7 @@ Auto-synced DSA solutions using Syncode
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -206,4 +210,20 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
