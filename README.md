@@ -207,6 +207,7 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0182-duplicate-emails/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
