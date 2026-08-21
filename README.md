@@ -13,6 +13,7 @@ Auto-synced DSA solutions using Syncode
 | [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -62,6 +63,7 @@ Auto-synced DSA solutions using Syncode
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -105,6 +107,7 @@ Auto-synced DSA solutions using Syncode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
@@ -136,6 +139,7 @@ Auto-synced DSA solutions using Syncode
 | [0231-power-of-two](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0342-power-of-four/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -164,6 +168,7 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -181,6 +186,7 @@ Auto-synced DSA solutions using Syncode
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
