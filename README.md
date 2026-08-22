@@ -15,6 +15,7 @@ Auto-synced DSA solutions using Syncode
 | [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
