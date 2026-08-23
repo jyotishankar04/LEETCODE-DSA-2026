@@ -11,6 +11,7 @@ Auto-synced DSA solutions using Syncode
 | [0326-power-of-three](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
+| [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -31,6 +32,7 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0022-generate-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -76,6 +78,7 @@ Auto-synced DSA solutions using Syncode
 | [1386-cinema-seat-allocation](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -233,6 +236,7 @@ Auto-synced DSA solutions using Syncode
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
