@@ -38,6 +38,7 @@ Auto-synced DSA solutions using Syncode
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ Auto-synced DSA solutions using Syncode
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Auto-synced DSA solutions using Syncode
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +204,7 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +214,7 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
