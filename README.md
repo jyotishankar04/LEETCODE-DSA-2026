@@ -6,6 +6,7 @@ Auto-synced DSA solutions using Syncode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0326-power-of-three/) | Easy |
