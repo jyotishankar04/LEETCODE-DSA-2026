@@ -35,6 +35,7 @@ Auto-synced DSA solutions using Syncode
 | [0014-longest-common-prefix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0022-generate-parentheses/) | Medium |
+| [0242-valid-anagram](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0242-valid-anagram/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -98,6 +99,7 @@ Auto-synced DSA solutions using Syncode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0242-valid-anagram/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -107,6 +109,7 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0496-next-greater-element-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1386-cinema-seat-allocation/) | Medium |
