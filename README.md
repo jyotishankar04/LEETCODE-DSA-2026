@@ -65,6 +65,7 @@ Auto-synced DSA solutions using Syncode
 | [0014-longest-common-prefix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0283-move-zeroes/) | Easy |
@@ -103,6 +104,7 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0242-valid-anagram/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -295,4 +297,8 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0053-maximum-subarray/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
