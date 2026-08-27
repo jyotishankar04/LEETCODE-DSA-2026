@@ -61,6 +61,7 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0053-maximum-subarray/) | Medium |
@@ -91,6 +92,7 @@ Auto-synced DSA solutions using Syncode
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0011-container-with-most-water/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -204,6 +206,7 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0283-move-zeroes/) | Easy |
