@@ -79,6 +79,7 @@ Auto-synced DSA solutions using Syncode
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -101,6 +102,7 @@ Auto-synced DSA solutions using Syncode
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
