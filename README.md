@@ -309,4 +309,8 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0056-merge-intervals/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 <!---LeetCode Topics End-->
