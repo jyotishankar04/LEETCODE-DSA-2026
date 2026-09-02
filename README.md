@@ -20,6 +20,7 @@ Auto-synced DSA solutions using Syncode
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Auto-synced DSA solutions using Syncode
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
