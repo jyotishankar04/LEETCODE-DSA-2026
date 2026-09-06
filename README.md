@@ -37,6 +37,7 @@ Auto-synced DSA solutions using Syncode
 | [0014-longest-common-prefix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0022-generate-parentheses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0242-valid-anagram/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
@@ -52,6 +53,7 @@ Auto-synced DSA solutions using Syncode
 | [0005-longest-palindromic-substring](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0053-maximum-subarray/) | Medium |
+| [0115-distinct-subsequences](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3620-network-recovery-pathways/) | Hard |
