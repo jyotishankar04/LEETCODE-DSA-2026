@@ -39,6 +39,7 @@ Auto-synced DSA solutions using Syncode
 | [0022-generate-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0242-valid-anagram/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -56,6 +57,7 @@ Auto-synced DSA solutions using Syncode
 | [0115-distinct-subsequences](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
