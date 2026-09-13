@@ -79,6 +79,7 @@ Auto-synced DSA solutions using Syncode
 | [0496-next-greater-element-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0665-non-decreasing-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0665-non-decreasing-array/) | Medium |
+| [0835-image-overlap](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0835-image-overlap/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -179,6 +180,7 @@ Auto-synced DSA solutions using Syncode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0835-image-overlap/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bit Manipulation
