@@ -12,6 +12,7 @@ Auto-synced DSA solutions using Syncode
 | [0326-power-of-three](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2029-stone-game-ix/) | Medium |
@@ -59,6 +60,7 @@ Auto-synced DSA solutions using Syncode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0509-fibonacci-number/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -239,6 +241,7 @@ Auto-synced DSA solutions using Syncode
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Counting
@@ -251,6 +254,7 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Enumeration
