@@ -43,6 +43,7 @@ Auto-synced DSA solutions using Syncode
 | [0242-valid-anagram](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0242-valid-anagram/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -111,6 +112,7 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0011-container-with-most-water/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1927-sum-game/) | Medium |
@@ -280,6 +282,7 @@ Auto-synced DSA solutions using Syncode
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0496-next-greater-element-i/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +316,7 @@ Auto-synced DSA solutions using Syncode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/0020-valid-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotishankar04/LEETCODE-DSA-2026/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
